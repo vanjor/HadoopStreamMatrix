@@ -14,12 +14,12 @@ index_a_2    {"index_b_3":"0.0212","index_b_5":"0.2312"}
 
 #### matrix multiplication
 
-Matrix <A,B> X <B,C> = <A,C>
+Matrix (A,B) X (B,C) = (A,C）
 
 run code
 ```shell
 /bin/sh bin/matrix_multiplication.sh $input_matrix_a_hadoop_dir_path $input_matrix_b_hadoop_dir_path $output_matrix_c_hadoop_dir_path 
-```shell
+```
 
 
 #### matrix self multiplication
@@ -29,7 +29,7 @@ Matrix <A,B> X <B,A> = <A,A>
 run code
 ```shell
 /bin/sh bin/matrix_multiplication.sh $input_matrix_hadoop_dir_path $output_matrix_hadoop_dir_path 
-```shell
+```
 
 
 #### compute principle
