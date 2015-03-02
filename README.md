@@ -24,7 +24,7 @@ run code
 
 #### matrix self multiplication
 
-Matrix <A,B> X <B,A> = <A,A>
+Matrix (A,B) X (B,A) = (A,A)
 
 run code
 ```shell
