@@ -34,4 +34,4 @@ run code
 
 #### compute principle
 
-reference:http://importantfish.com/two-step-matrix-multiplication-with-hadoop/
+logic reference:http://importantfish.com/two-step-matrix-multiplication-with-hadoop/
