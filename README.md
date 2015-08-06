@@ -1,5 +1,6 @@
 # HadoopStreamMatrix
 
+范围在[0-2^32)。
 Streaming Matrix Multiplication on Hadoop, for Similarly Compute & CF Recommendation
 
 ### Quick Start and Examples
